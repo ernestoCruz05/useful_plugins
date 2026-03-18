@@ -1,0 +1,5 @@
+name    = "useful-plugins"
+version = "0.1.0"
+
+[collection]
+plugins = ["carousel", "all-float", "autotile"]
